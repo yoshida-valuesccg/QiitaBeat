@@ -113,7 +113,7 @@ async function setBeat() {
 
     let $el = $(`
         <div class="qiitabeat-setting">
-            <a>設定</a>
+            <a>設定が必要です！</a>
         </div>`
     ).insertAfter('.it-Actions_item-like');
 
